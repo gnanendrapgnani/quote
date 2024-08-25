@@ -1,0 +1,19 @@
+#root {
+  max-width: 1920px;
+  margin: 0 auto;
+  text-align: center;
+}
+.mainContainer {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.card {
+  width: 237px;
+  height: 191px !important;
+  overflow: auto;
+}
